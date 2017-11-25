@@ -84,5 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - docker-compose.yml
+  - Dockerfile
 
 # theme: jekyll-theme-leap-day
